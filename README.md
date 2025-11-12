@@ -1,2 +1,2 @@
-# vossipro.github-io
+# vossipro.github.io
 Just a test
